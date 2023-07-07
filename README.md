@@ -1,4 +1,4 @@
-# Word Letter Problem
+# Word Ladder Problem
   A hard data structures and algorithms problem.  
   Uses the following concepts:
   - Data Structures
